@@ -1,7 +1,7 @@
 # Virtual Doctor in C
 
 ## Overview
-Virtual Doctor is a sophisticated diagnostic software developed in C that leverages medical data to diagnose illnesses, recommend treatments, and, if necessary, establish a connection with a physical doctor for further evaluation.
+Virtual Doctor is a sophisticated diagnostic software developed in C that leverages medical data to diagnose illnesses, recommend treatments, generates report file and, if necessary, establish a connection with a physical doctor for further evaluation.
 
 ## Features
 - **Intelligent Diagnosis:** Utilizes a comprehensive database of symptoms and conditions to provide accurate health assessments.
